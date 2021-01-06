@@ -1,0 +1,74 @@
+img{
+    width: 950px;
+    border: 1px solid gray;
+    
+}
+
+body {
+    background-color: cornflowerblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: cursive;
+    padding: 0;
+    padding-top: 0;
+    margin: 0;
+    text-align: center;
+
+    
+}
+
+h1 {
+    font-style: unset;
+    font-size: 100px;
+    margin-bottom: 25px;
+    text-align: center;
+    font-family: fantasy;
+    color: khaki;
+}
+
+
+h2 {
+    font-size: 1.6rem;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: lightgreen; 
+    
+}
+
+li {
+    font-size: 15px;
+    font-style: italic;
+    color:rgb(71, 5, 77);
+list-style-position: inside;
+
+}
+
+p {
+    font-size: 20px;
+    color:maroon
+}
+
+a {
+    font-size: 20px;
+
+}
+ 
+
+    
+ .tree {
+     width: 500px;
+ }
+
+ .target {
+    width: 500px;
+}
+.Spencers {
+    width: 500px;
+}
+
+.Kroger {
+    width:500px;
+}
+
+.job {
+    font-size: 50px;;
+}
